@@ -1,6 +1,6 @@
 # 🐉 DTDragons
 
-A forked version of **DT Dragons** with support for Oculus XR.
+A forked version of **DT Dragons**
 
 > **Note:** To open and run this project, you must have the **Oculus XR plugin** installed.  
 > Download it here:  
